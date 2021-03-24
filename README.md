@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fulplan
 - 👀 I’m interested in Cyber Security...
 - 🌱 I’m currently learning Everything related Security
-- 💞️ I’m looking to collaborate on any Hacking Projrct
+- 💞️ I’m looking to collaborate on any Hacking Project
 - 📫 How to reach me :: mutasimplan@protonmail.com 
 
 <!---
