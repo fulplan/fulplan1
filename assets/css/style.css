@@ -199,7 +199,8 @@ nav i {
 } */
 
 main {
-  background: url(../../assets/img/bg.png) repeat;
+  /* background: url(../../assets/img/bg.png) repeat; */
+  background-color: black;
   padding-left: 190px;
 }
 
@@ -280,6 +281,10 @@ ul#slide-out li:not(.logo) a span {
   color: #333 !important;
 }
 
+#slide-out {
+  background-color: black;
+}
+
 li.logo span {
   display: block;
   font-size: 14px;
@@ -326,8 +331,9 @@ h3 {
   position: relative;
 }
 
+/* Text FulPlan text color */
 #intro.section .container {
-  color: white;
+  color: rgb(0, 0, 0);
   font-weight: 200;
   left: 0;
   position: absolute;
@@ -551,7 +557,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #09c0fa !important;
+  color: #1a374d !important;
 }
 
 /* .teal-text {
@@ -561,7 +567,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #09c0fa !important;
+  background-color: #1a374d !important;
 }
 
 /* .teal {
@@ -603,9 +609,10 @@ small {
     height: 64px;
     position: absolute;
   }
+  /* Navbar 3 line  */
   nav a.button-collapse,
   nav a.button-collapse i {
-    color: #009688;
+    color: #000000;
     height: 56px;
     line-height: 56px;
   }
