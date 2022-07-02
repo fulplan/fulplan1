@@ -1,0 +1,293 @@
+/* My Blog Page  */
+
+
+/* color 
+
+red :: #EC255A
+ white :: #FAEDF0
+ dark :: #292C6D
+  deepdark:: #161853
+
+font-family: 'Ubuntu Condensed', sans-serif;
+font-family: 'Ubuntu Mono', monospace;
+
+Hackthebox
+darkbeutiful ::    #111927
+dark ::  #141d2b
+
+text color ::  #a4b1cd
+text-active color #9fef00
+main bold text color :: #ffffff
+
+*/
+
+/* FONTS
+
+font-family: 'Fira Code', monospace;
+font-family: 'Fira Mono', monospace;
+font-family: 'Inter', sans-serif;
+font-family: 'M PLUS Code Latin', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Ubuntu Condensed', sans-serif;
+font-family: 'Ubuntu Mono', monospace;
+font-family: 'Ubuntu Mono', 'Ubuntu Condensed', 'M PLUS Code Latin', monospace, ;
+
+
+*/
+
+/* Heading Font */
+/* first headin color is #ccd6f6 */
+/* second headin color is #8892b0 */
+/* paragragh color is #8892b0*/
+/* 
+primary H1 font size 80px
+paragragh 20px
+
+fonts in outline border 14px
+border radius = 4px
+
+"SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace
+
+*/
+    /* border: 1px solid #fff; */
+    /* box-shadow: 0 2px 2px -2px #a4b1cd; */
+
+
+
+
+
+
+
+/* BODY */
+body { 
+  /* display: flex; */
+  margin: 0; 
+  background-color:  #0a192f;
+  position: relative;
+    
+}
+
+
+#header {
+  display:flex;
+  justify-content:center;
+
+}
+li{
+  display: inline;
+}
+
+
+#navbar {
+    overflow: hidden;
+    background-color: #0a192f;
+    padding: 90px 10px;
+    transition: 0.4s;
+    position: fixed;
+    width: 95%;
+    z-index: 99;
+    position: fixed;
+    top: 0px;
+    backdrop-filter: blur(10px);
+    font-family: 'Ubuntu Mono', 'Ubuntu Condensed', 'M PLUS Code Latin', monospace ;
+
+  }
+
+
+
+
+#navbar a {
+    float: left;
+    color: #ccd6f6;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  #navbar #logo {
+    font-size: 35px;
+    font-weight: bold;
+    transition: 0.4s;
+  }
+
+  #navbar a:hover {
+    /* background-color: #9fef00; */
+    color: #81f4e2;
+  }
+
+span{
+  color: #81f4e2;
+  font-family: 'M PLUS Code Latin', sans-serif;
+}
+
+
+#navbar-right {
+    float: right;
+  }
+  
+#first-top-section{
+    color: rgb(0, 109, 204);
+    margin: 270px 0 0 0;
+}
+
+
+.container {
+  width: auto;
+  /* border: 3px solid blue; */
+  display: flex;
+  flex-wrap: wrap;
+  flex: auto;
+  
+
+
+}
+
+
+.box {
+  /* width: 100px;
+  height: 100px; */
+  /* background-color: gold; */
+  margin: 5px;
+
+
+}
+
+.name-text {
+  flex: 1 1 auto;
+}
+
+.my-img {
+  flex: 1 1 auto;
+}
+
+
+div.container.my-intro {
+  margin-left: 100px;
+  margin-right: 60px;
+}
+
+
+
+/* .name-text {
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.intro-position{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+
+.grid-container {
+  width: 100%;
+  margin-left: 60px;
+  display: grid;
+  display: inline-grid;
+  grid-template-columns: repeat(2, 45%);
+  justify-content: center;
+  justify-items:center;
+  column-gap: 15px;
+  padding: 0;
+  
+} */
+
+.big-heading {
+  margin: 0px;
+  font-size: clamp(40px, 8vw, 80px);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0px 0px 10px;
+  font-weight: 600;
+  color: var(--lightest-slate);
+  line-height: 1.1;
+}
+
+.small-heading p {
+  margin: 20px 0px 0px;
+  max-width: 540px;
+}
+
+
+/* BODY fonts */
+h1 {
+  color: #64ffda;
+  font-size: 16px;
+}
+
+h1,p{
+  font-family:"SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace;
+  font-weight: normal;
+}
+h2 {
+  color: #ccd6f6;
+  font-size: 80px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+h3 {
+  color: #8892b0;
+  font-size: 80px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+p{
+  color: #8892b0 ;
+  font-size: 20px;
+}
+
+
+h2{
+  cursor: pointer
+}
+h2 span{
+  transition: .5s linear
+}
+h2:hover span:nth-child(1){
+  margin-right: 5px
+}
+h2:hover span:nth-child(1):after{
+  content: "";
+}
+h2:hover span:nth-child(2){
+  margin-left: 30px
+}
+h2:hover span{
+  color: #fff;
+  text-shadow: 0 0 10px #fff,
+               0 0 20px #fff, 
+               0 0 40px #fff;
+}
+
+@media screen and (max-width: 580px) {
+    #navbar {
+      padding: 20px 10px !important;
+    }
+    #navbar a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    #navbar-right {
+      float: none;
+    }
+
+    .hero-text-right{
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+    
+    }
+    
+    
+    .hero-text-left{
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        
+    }
+  }
+
