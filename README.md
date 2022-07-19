@@ -70,7 +70,7 @@ if __name__ == '__main__':
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/fulplan/fulplan1/blob/main/readme-assets/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 Credit: [fulplan](https://github.com/fulplan)
