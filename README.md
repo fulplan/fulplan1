@@ -4,9 +4,14 @@
 
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
-Heya! I'm FulPlan Mutasim, a student currently living in Ashanti region, Ghana. I'm preparing for
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,
-and learning programming through small projects on the side.
+Heya! I'm FulPlan Mutasim, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+
+- 💼 any freelance work? do reach, [email](mailto:mutasimplan@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 <br>
 
