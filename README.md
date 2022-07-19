@@ -54,7 +54,11 @@ if __name__ == '__main__':
     me = Fulplan()
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mvw6nz3hyisx6fp52hi7w3qs3i&cover_image=true&theme=default&bar_color=56c752&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mvw6nz3hyisx6fp52hi7w3qs3i&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mvw6nz3hyisx6fp52hi7w3qs3i&cover_image=true&theme=natemoo-re&bar_color=56c752&bar_color_cover=true">
+  </a>
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
