@@ -81,19 +81,25 @@ if __name__ == '__main__':
 ![](https://visitor-badge.glitch.me/badge?page_id=fulplan.fulplan)
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## My Statistics
 
 <br/>
-<p align="left">
-  <a href="https://fulplan.medium.com">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fulplan&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fulplan&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fulplan&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulplan&layout=compact&theme=cobalt&hide_border=true" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fulplan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+[![FulPlan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fulplan&custom_title=fulplan's%20Contribution%20Graph&theme=vue-dark&hide_border=true&line=d1a01f&point=c58545)](https://fulplan.medium.com)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mvw6nz3hyisx6fp52hi7w3qs3i&cover_image=true&theme=default&bar_color=56c752&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <br>
 
-[![FulPlan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fulplan&custom_title=fulplan's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://fulplan.medium.com)
+<br>
 
 ---
 
