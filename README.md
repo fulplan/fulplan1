@@ -36,7 +36,7 @@ if __name__ == '__main__':
 <div align="center">
   <a href="https://open.spotify.com/user/31mvw6nz3hyisx6fp52hi7w3qs3i?si=uTDRiDIQSdehZjFq179H7w">
     <!-- <img src="https://readme-spotify-tingz.vercel.app/api/now-playing"> -->
-    <img src="<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/59sKdSlp0JsTexm02vPIUv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/59sKdSlp0JsTexm02vPIUv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
   </a>
 </div>
 
