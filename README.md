@@ -1,10 +1,10 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>FulPlan Mutasim</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Heya! I'm FulPlan Mutasim, a student currently living in Ashanti region, Ghana. I'm preparing for
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,
+and learning programming through small projects on the side.
 
 <br>
 
@@ -17,20 +17,20 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
-    
+class Fulplan():
+
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
+    self.name = "FulPlan Mutasim";
+    self.username = "fulplan";
+    self.location = "Ashanti Region, Ghana";
+    self.twitter = "@fulplan";
+    self.web = "https://fulplan.medium.com";
+
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = Fulplan()
 ```
 
 <div align="center">
@@ -51,17 +51,17 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  <a href="https://fulplan.medium.com">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fulplan&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fulplan&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fulplan&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://fulplan.medium.com)
 
-------
+---
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
+Credit: [fulplan](https://github.com/fulplan)
 
-Last Edited on: 24/12/2021
+Last Edited on: 19/06/2022
