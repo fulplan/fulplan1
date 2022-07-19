@@ -2,6 +2,8 @@
   <b>FulPlan Mutasim</b>
 </h1>
 
+<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+
 Heya! I'm FulPlan Mutasim, a student currently living in Ashanti region, Ghana. I'm preparing for
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,
 and learning programming through small projects on the side.
@@ -36,7 +38,7 @@ if __name__ == '__main__':
 <div align="center">
   <a href="https://open.spotify.com/user/31mvw6nz3hyisx6fp52hi7w3qs3i?si=uTDRiDIQSdehZjFq179H7w">
     <!-- <img src="https://readme-spotify-tingz.vercel.app/api/now-playing"> -->
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/59sKdSlp0JsTexm02vPIUv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+    <img src="https://open.spotify.com/playlist/59sKdSlp0JsTexm02vPIUv?si=1a9cf4a4cddc4b1d">
   </a>
 </div>
 
@@ -62,6 +64,14 @@ if __name__ == '__main__':
 [![FulPlan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fulplan&custom_title=fulplan's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://fulplan.medium.com)
 
 ---
+
+<br/>
+<br/>
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 Credit: [fulplan](https://github.com/fulplan)
 
