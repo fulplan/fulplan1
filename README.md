@@ -74,9 +74,9 @@ if __name__ == '__main__':
 
 <br/>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=fulplan&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulplan&layout=compact&theme=cobalt&hide_border=true" /><img src="https://github-readme-streak-stats.herokuapp.com?user=fulplan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img  src="https://github-readme-stats.vercel.app/api?username=fulplan&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=282828&hide_border=true" alt="My github stats" /><img src="https://github-readme-streak-stats.herokuapp.com?user=fulplan&theme=gruvbox&bg_color=282828&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulplan&layout=compact&theme=gruvbox&bg_color=282828&hide_border=true" />
 
-[![FulPlan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fulplan&custom_title=fulplan's%20Contribution%20Graph&theme=vue-dark&hide_border=true&line=d1a01f&point=c58545)](https://fulplan.medium.com)
+[![FulPlan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fulplan&custom_title=fulplan's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://fulplan.medium.com)
 
 <br>
 
